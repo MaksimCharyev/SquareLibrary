@@ -1,0 +1,5 @@
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibrary\obj\Debug\net6.0\SquareLibrary.csproj.AssemblyReference.cache
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibrary\obj\Debug\net6.0\SquareLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibrary\obj\Debug\net6.0\SquareLibrary.AssemblyInfoInputs.cache
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibrary\obj\Debug\net6.0\SquareLibrary.AssemblyInfo.cs
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibrary\obj\Debug\net6.0\SquareLibrary.csproj.CoreCompileInputs.cache

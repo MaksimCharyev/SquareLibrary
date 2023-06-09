@@ -1,0 +1,6 @@
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibraryTests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibraryTests\obj\Debug\net6.0\SquareLibraryTests.csproj.AssemblyReference.cache
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibraryTests\obj\Debug\net6.0\SquareLibraryTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibraryTests\obj\Debug\net6.0\SquareLibraryTests.AssemblyInfoInputs.cache
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibraryTests\obj\Debug\net6.0\SquareLibraryTests.AssemblyInfo.cs
+C:\Users\Максим\OneDrive\Documents\Study\HHru\SquareLibraryTests\obj\Debug\net6.0\SquareLibraryTests.csproj.CoreCompileInputs.cache
